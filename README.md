@@ -49,3 +49,6 @@ cPanel → *Backup* → download the MySQL database regularly (or use *Backup Wi
 ## Security notes
 
 Passwords are hashed (bcrypt/argon), every form has CSRF protection, queries are prepared, login attempts are rate-limited, sessions time out after 4 hours idle, and every important action is written to the Activity Log. Use strong, unique passwords for each staff member and deactivate accounts when people leave.
+
+## Screenshots
+![alt text](<Dot Dashboard.png>) ![alt text](<login page.png>) ![alt text](<Qdashboard light.png>) ![alt text](repotsQ.png) ![alt text](<Screenshot (139).png>)
